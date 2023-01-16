@@ -16,9 +16,9 @@ Method: Object oriented programming **(OOP)**
 
 ---
 ## Functions
-Left arrow key or "D": go to left
+Left arrow key or "A": go to left
 
-Right arrow key or "A": go to right
+Right arrow key or "D": go to right
 
 Space key: Fire
 
